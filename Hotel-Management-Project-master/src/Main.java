@@ -97,19 +97,19 @@ class Hotel
         String name2 = null, contact2 = null; 
         String gender2="";
         System.out.print("\nEnter customer name: ");
-        name = sc.next();
+        name = sc.nextLine();
         System.out.print("Enter contact number: ");
-        contact=sc.next();
+        contact=sc.nextLine();
         System.out.print("Enter gender: ");
-        gender = sc.next();
+        gender = sc.nextLine();
         if(i<3)
         {
         System.out.print("Enter second customer name: ");
-        name2 = sc.next();
+        name2 = sc.nextLine();
         System.out.print("Enter contact number: ");
-        contact2=sc.next();
+        contact2=sc.nextLine();
         System.out.print("Enter gender: ");
-        gender2 = sc.next();
+        gender2 = sc.nextLine();
         }      
         
           switch (i) {
