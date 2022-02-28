@@ -3,6 +3,6 @@ This is a Hotel Management tool which can be used to manage activites like stori
 
 ****************************
 Topics Covered-
-Classes and Objects, Inheritance, File Handling with Objects, ArrayList, implementing Interface, User defined exception and Exception handling.
+Classes, Objects, Inheritance, File Handling with Objects, ArrayList, implementing Interface, User defined exception and Exception handling.
 ***************************
 Made by - Shivam Roy, Giridev Rabha, Ashutosh Khan, Gopi Meghana.
